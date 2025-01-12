@@ -1,2 +1,3 @@
 # TViMS
-The repository is intended for laboratory work on the subject TViMS semester 1
+Репозиторий предназначен для лабораторных работ по предмету ТВиМС семестр 1.
+Описание датасета и задачи в jupyter ноутбуках
